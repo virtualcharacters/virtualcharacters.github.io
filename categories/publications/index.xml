@@ -8,13 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Learned dynamics models and online planning-based animation generation for data-driven virtual character agents</title>
-      <link>https://example.com/p/learned-dynamics-models-and-online-planning-based-animation-generation-for-data-driven-virtual-character-agents/</link>
+      <title>ICAART2021</title>
+      <link>https://example.com/publications/icaart2021/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/p/learned-dynamics-models-and-online-planning-based-animation-generation-for-data-driven-virtual-character-agents/</guid>
+
+      <guid>https://example.com/publications/icaart2021/</guid>
       <description>Data-driven agents for virtual character animation control offer great potential for both recreational and serious games and applications. For the characters to be most effective in these instances, the behaviour portrayed by output animation needs to be realistic, dynamic and responsive to live events and cues from the user. Current state-of-the-art work in the area has shown impressive results for using supervised learning to output select behaviours provided sufficient motion clips are available for training, but these methods only allow for limited dynamism.</description>
     </item>
-    
+
   </channel>
 </rss>
