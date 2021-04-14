@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on console-demo</title>
+    <link>https://virtualcharacters.github.io/papers/</link>
+    <description>Recent content in Posts on console-demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://virtualcharacters.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RLAnimate : Data-Driven Reinforcement Learning for Virtual Character Animation Control</title>
+      <link>https://virtualcharacters.github.io/papers/ala2021/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://virtualcharacters.github.io/papers/ala2021/</guid>
+      <description>RLAnimate output sequences and comparison to control agents   RLAnimate behaviour portrayal flexibility   </description>
+    </item>
+    
+  </channel>
+</rss>
