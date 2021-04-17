@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>papers on Virtual Humans for Serious Games</title>
+    <link>https://virtualcharacters.github.io/tags/papers/</link>
+    <description>Recent content in papers on Virtual Humans for Serious Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Mar 2021 21:05:05 -0500</lastBuildDate><atom:link href="https://virtualcharacters.github.io/tags/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data-Driven Reinforcement Learning for Virtual Character Animation Control (ALA 2021)</title>
+      <link>https://virtualcharacters.github.io/2021/03/data-driven-reinforcement-learning-for-virtual-character-animation-control-ala-2021/</link>
+      <pubDate>Mon, 15 Mar 2021 21:05:05 -0500</pubDate>
+      
+      <guid>https://virtualcharacters.github.io/2021/03/data-driven-reinforcement-learning-for-virtual-character-animation-control-ala-2021/</guid>
+      <description>RLAnimate output sequences and comparison to control agents   RLAnimate behaviour portrayal flexibility   </description>
+    </item>
+    
+    <item>
+      <title>Learned dynamics models and online planning for model-based animation agents (AMSTA 2021)</title>
+      <link>https://virtualcharacters.github.io/2021/03/learned-dynamics-models-and-online-planning-for-model-based-animation-agents-amsta-2021/</link>
+      <pubDate>Thu, 04 Mar 2021 21:05:05 -0500</pubDate>
+      
+      <guid>https://virtualcharacters.github.io/2021/03/learned-dynamics-models-and-online-planning-for-model-based-animation-agents-amsta-2021/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Examining the effects of a virtual character on learning and engagement in serious games (ACM MIG 2018)</title>
+      <link>https://virtualcharacters.github.io/2018/11/examining-the-effects-of-a-virtual-character-on-learning-and-engagement-in-serious-games-acm-mig-2018/</link>
+      <pubDate>Fri, 30 Nov 2018 21:05:05 -0500</pubDate>
+      
+      <guid>https://virtualcharacters.github.io/2018/11/examining-the-effects-of-a-virtual-character-on-learning-and-engagement-in-serious-games-acm-mig-2018/</guid>
+      <description>https://dl.acm.org/doi/abs/10.1145/3274247.3274499</description>
+    </item>
+    
+  </channel>
+</rss>

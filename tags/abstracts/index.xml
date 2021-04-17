@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abstracts on Virtual Humans for Serious Games</title>
+    <link>https://virtualcharacters.github.io/tags/abstracts/</link>
+    <description>Recent content in abstracts on Virtual Humans for Serious Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Feb 2021 21:05:05 -0500</lastBuildDate><atom:link href="https://virtualcharacters.github.io/tags/abstracts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learned dynamics models and online planning-based animation generation for data-driven virtual character agents (ICAART 2021)</title>
+      <link>https://virtualcharacters.github.io/2021/02/learned-dynamics-models-and-online-planning-based-animation-generation-for-data-driven-virtual-character-agents-icaart-2021/</link>
+      <pubDate>Sat, 20 Feb 2021 21:05:05 -0500</pubDate>
+      
+      <guid>https://virtualcharacters.github.io/2021/02/learned-dynamics-models-and-online-planning-based-animation-generation-for-data-driven-virtual-character-agents-icaart-2021/</guid>
+      <description>  Poster     </description>
+    </item>
+    
+  </channel>
+</rss>
