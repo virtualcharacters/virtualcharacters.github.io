@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://virtualcharacters.github.io/2021/03/data-driven-reinforcement-learning-for-virtual-character-animation-control-ala-2021/</loc>
-    <lastmod>2021-03-15T21:05:05-05:00</lastmod>
-  </url><url>
-    <loc>https://virtualcharacters.github.io/2021/03/latent-dynamics-for-artefact-free-character-animation-via-data-driven-reinforcement-learning-icann-2021/</loc>
-    <lastmod>2021-03-15T21:05:05-05:00</lastmod>
+    <loc>https://virtualcharacters.github.io/2021/05/latent-dynamics-for-artefact-free-character-animation-via-data-driven-reinforcement-learning-icann-2021/</loc>
+    <lastmod>2021-05-15T21:05:05-05:00</lastmod>
   </url><url>
     <loc>https://virtualcharacters.github.io/tags/papers/</loc>
-    <lastmod>2021-03-15T21:05:05-05:00</lastmod>
+    <lastmod>2021-05-15T21:05:05-05:00</lastmod>
   </url><url>
     <loc>https://virtualcharacters.github.io/post/</loc>
-    <lastmod>2021-03-15T21:05:05-05:00</lastmod>
+    <lastmod>2021-05-15T21:05:05-05:00</lastmod>
   </url><url>
     <loc>https://virtualcharacters.github.io/tags/</loc>
+    <lastmod>2021-05-15T21:05:05-05:00</lastmod>
+  </url><url>
+    <loc>https://virtualcharacters.github.io/2021/03/data-driven-reinforcement-learning-for-virtual-character-animation-control-ala-2021/</loc>
     <lastmod>2021-03-15T21:05:05-05:00</lastmod>
   </url><url>
     <loc>https://virtualcharacters.github.io/2021/03/learned-dynamics-models-and-online-planning-for-model-based-animation-agents-amsta-2021/</loc>

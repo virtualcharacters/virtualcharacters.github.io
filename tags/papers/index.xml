@@ -6,7 +6,16 @@
     <description>Recent content in papers on Virtual Humans for Serious Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Mar 2021 21:05:05 -0500</lastBuildDate><atom:link href="https://virtualcharacters.github.io/tags/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 May 2021 21:05:05 -0500</lastBuildDate><atom:link href="https://virtualcharacters.github.io/tags/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latent dynamics for artefact-free character animation via data-driven reinforcement learning (ICANN 2021)</title>
+      <link>https://virtualcharacters.github.io/2021/05/latent-dynamics-for-artefact-free-character-animation-via-data-driven-reinforcement-learning-icann-2021/</link>
+      <pubDate>Sat, 15 May 2021 21:05:05 -0500</pubDate>
+      
+      <guid>https://virtualcharacters.github.io/2021/05/latent-dynamics-for-artefact-free-character-animation-via-data-driven-reinforcement-learning-icann-2021/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Data-Driven Reinforcement Learning for Virtual Character Animation Control (ALA 2021)</title>
       <link>https://virtualcharacters.github.io/2021/03/data-driven-reinforcement-learning-for-virtual-character-animation-control-ala-2021/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://virtualcharacters.github.io/2021/03/data-driven-reinforcement-learning-for-virtual-character-animation-control-ala-2021/</guid>
       <description>RLAnimate output sequences and comparison to control agents   RLAnimate behaviour portrayal flexibility   </description>
-    </item>
-    
-    <item>
-      <title>Latent dynamics for artefact-free character animation via data-driven reinforcement learning (ICANN 2021)</title>
-      <link>https://virtualcharacters.github.io/2021/03/latent-dynamics-for-artefact-free-character-animation-via-data-driven-reinforcement-learning-icann-2021/</link>
-      <pubDate>Mon, 15 Mar 2021 21:05:05 -0500</pubDate>
-      
-      <guid>https://virtualcharacters.github.io/2021/03/latent-dynamics-for-artefact-free-character-animation-via-data-driven-reinforcement-learning-icann-2021/</guid>
-      <description></description>
     </item>
     
     <item>
